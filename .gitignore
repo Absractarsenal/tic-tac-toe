@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+
+# Compiled binary executables
+tic_tac_toe
+ttt
+*.exe
+*.out
+
+# Debug files
+*.log
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
